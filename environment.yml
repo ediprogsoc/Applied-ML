@@ -1,0 +1,15 @@
+name: applied-machine-learning
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - nb_conda_kernels
+  - matplotlib
+  - seaborn
+  - pandas
+  - scikit-learn
+  - jupyterlab
+  - pytorch
+  - numpy
+  - jupyter_contrib_nbextensions
+  - torchvision
